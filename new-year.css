@@ -4,7 +4,7 @@
     position: absolute;
     width: 100%;
     height: 808px;
-    
+    background-repeat: no-repeat;
     
 }
 .header-div{
@@ -35,4 +35,79 @@
     color: white;
     border: 0;
     border-radius: 10px;
+}
+/* main section */
+.person-image{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+
+}
+.failures-header{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.failures-paragraph{
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+.paragraph-details{
+    display: inline;
+    width: 349px;
+    height: 157px;
+    left: 862px;
+    top: 1421px;
+    position: absolute;
+    width: 315px;
+    height: 25.2px;
+    left: 896px;
+    top: 1421px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 5px;
+}
+
+/* middle style */
+.middle-section{
+    display: flex;
+    position: absolute;
+    width: 1141px;
+    height: 299.96px;
+    left: 230px;
+    top: 1792.3px;
+    width: 100%;
+}
+.my-plan{
+    text-align: center;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px
+}
+.plan-section{
+    padding-left: 100px;
 }

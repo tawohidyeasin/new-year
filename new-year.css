@@ -1,0 +1,38 @@
+/* header section section style added */
+.header-section{
+    background-image: url(./images/banner/banner1.png);
+    position: absolute;
+    width: 100%;
+    height: 808px;
+    
+    
+}
+.header-div{
+    justify-content: space-between;
+    text-align: right;
+}
+
+.first-header{
+    font-size: 50px;
+    padding-top: 200px;
+    padding-left: 800px;
+}
+.first-paragraph{
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 700;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background-color: orange;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+}
